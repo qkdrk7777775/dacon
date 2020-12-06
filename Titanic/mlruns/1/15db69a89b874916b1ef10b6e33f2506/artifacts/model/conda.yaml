@@ -1,0 +1,9 @@
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.6.11
+- pip
+- pip:
+  - pycaret==2.2.1
+name: cluster1-env

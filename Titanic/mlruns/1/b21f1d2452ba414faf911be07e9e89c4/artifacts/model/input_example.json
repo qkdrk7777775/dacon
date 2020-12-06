@@ -1,0 +1,1 @@
+{"columns": ["Pclass", "Sex", "Age", "SibSp", "Parch", "Cabin_cat", "Survived"], "data": [[3.0, "male", 22.0, 1.0, 0.0, "", false]]}
